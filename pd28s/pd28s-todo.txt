@@ -1,0 +1,20 @@
+TODO:
+
+- test: collegamenti e settaggi;
+
+- test: smaltimento calore degli stabilizzatori;
+- progetto dimensionamento e disposizione dissipatori;
+- realizzazione cablaggio dissipatori su contenitore;
+- test: smaltimento calore;
+
+- test: cc su una linea di out. Cosa succede sulle altre linee di distribuzione?
+- test: Inversione della polarità su un output. Cosa succede su tutte le linee di distribuzione?
+
+
+
+
+TBD:
+
+- Circuito di protezione cc?
+- Introduzione ponticelli bypass stabilizzatori?
+- Controllo Inversione polarità ingressi (ma il ponte lo fa già???)
